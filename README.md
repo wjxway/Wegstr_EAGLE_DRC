@@ -1,5 +1,9 @@
 # Wegstr_EAGLE_DRC
 
+<a href="http://www.wtfpl.net/"><img
+       src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png"
+       width="80" height="15" alt="WTFPL" /></a>
+       
 EAGLE DRC files for creating PCB using Wegstr CNC machines.
 
 These files are for checking whether your boards can be properly manufactured using Wegstr CNC machines. Apply the proper DRU files in the PCB **view -> Edit -> Design Rules -> Import**. and then check whether your board can be properly manufactured using **Tools -> DRC**.
